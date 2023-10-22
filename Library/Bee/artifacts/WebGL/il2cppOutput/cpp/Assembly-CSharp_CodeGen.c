@@ -1,0 +1,93 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Asteroid_Start_m5CABE270959CCCDD8DFB3574F012E9512D483B0B (void);
+extern void Asteroid_Update_m1C116715DEBAFF16A8134E075AB579AAD5D9B525 (void);
+extern void Asteroid_OnCollisionEnter_mF5A323F994164D073A1DB7A43729CDE8F1781C16 (void);
+extern void Asteroid__ctor_m5DD154C19DC480E6C3E17320AE52EBB2C9517ACC (void);
+extern void BoltController_Start_m0BE2A7E88CDAAE3A11E7F58A5E2465FA71CD4E9B (void);
+extern void BoltController_Update_m556EC17A352A0A70CEC5E14C0251B4C62059F4D3 (void);
+extern void BoltController__ctor_m324E3F0BBCE8DD75E8DA41DF37479E24041CD519 (void);
+extern void BoltDestory_Start_m5BCE88C8D646717C7A6301CFA937DED6F1A05614 (void);
+extern void BoltDestory_Update_m51C3AE43621905C942ABDB2EC2B65BD0DDCAA62C (void);
+extern void BoltDestory_OnCollisionEnter_m7DDBFDC5F3952D0DE84CBE48A48AF496EA192F7C (void);
+extern void BoltDestory__ctor_m348BA5536CB208F2C1360C159E1B39D43E4094EF (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33 (void);
+extern void PlayerController_PlayerMove_m130CD8F4AEE12FD9853ACF892EE0417E5ECA5F3B (void);
+extern void PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0 (void);
+extern void PlayerController_OnCollisionEnter_m1BFFD600AB7E87990B45308428B2C495E534F278 (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	Asteroid_Start_m5CABE270959CCCDD8DFB3574F012E9512D483B0B,
+	Asteroid_Update_m1C116715DEBAFF16A8134E075AB579AAD5D9B525,
+	Asteroid_OnCollisionEnter_mF5A323F994164D073A1DB7A43729CDE8F1781C16,
+	Asteroid__ctor_m5DD154C19DC480E6C3E17320AE52EBB2C9517ACC,
+	BoltController_Start_m0BE2A7E88CDAAE3A11E7F58A5E2465FA71CD4E9B,
+	BoltController_Update_m556EC17A352A0A70CEC5E14C0251B4C62059F4D3,
+	BoltController__ctor_m324E3F0BBCE8DD75E8DA41DF37479E24041CD519,
+	BoltDestory_Start_m5BCE88C8D646717C7A6301CFA937DED6F1A05614,
+	BoltDestory_Update_m51C3AE43621905C942ABDB2EC2B65BD0DDCAA62C,
+	BoltDestory_OnCollisionEnter_m7DDBFDC5F3952D0DE84CBE48A48AF496EA192F7C,
+	BoltDestory__ctor_m348BA5536CB208F2C1360C159E1B39D43E4094EF,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33,
+	PlayerController_PlayerMove_m130CD8F4AEE12FD9853ACF892EE0417E5ECA5F3B,
+	PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0,
+	PlayerController_OnCollisionEnter_m1BFFD600AB7E87990B45308428B2C495E534F278,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	5464,
+	8107,
+	5464,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
